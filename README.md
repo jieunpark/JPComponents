@@ -27,3 +27,6 @@ jieunpark, jimineunwoo@gmail.com
 ## License
 
 JPComponents is available under the MIT license. See the LICENSE file for more info.
+
+
+https://cocoapods.org/pods/JPComponents
