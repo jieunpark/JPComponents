@@ -18,6 +18,8 @@ it, simply add the following line to your Podfile:
 
 ```ruby
 pod 'JPComponents'
+or 
+pod 'JPComponents' , :git => 'https://github.com/jieunpark/JPComponents.git', :tag => '0.1.0'
 ```
 
 ## Author
